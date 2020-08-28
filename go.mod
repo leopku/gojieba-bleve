@@ -1,9 +1,9 @@
-module github.com/ttys3/gojieba-bleve
+module github.com/leopku/gojieba-bleve
 
 go 1.14
 
 require (
-	github.com/blevesearch/bleve v1.0.7
+	github.com/blevesearch/bleve v1.0.10
 	github.com/cznic/b v0.0.0-20181122101859-a26611c4d92d // indirect
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 // indirect
 	github.com/cznic/strutil v0.0.0-20181122101858-275e90344537 // indirect
